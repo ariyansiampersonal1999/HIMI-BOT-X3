@@ -73,11 +73,11 @@ If you find any issues or need custom features, feel free to reach out!
 ---
 
 ## 👤 **Credits**
-**Developer:** **MahMUD**
+**Developer:** **ARIYAN**
 **Project Name:** HIMI-BOT  
 
 <p align="center">
-  <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
+  <img src="https://i.imgur.com/yD4oIxY.jpeg" width="150px" style="border-radius: 50%;"/>
   <br>
   <b>ARIYAN</b>
 </p>
