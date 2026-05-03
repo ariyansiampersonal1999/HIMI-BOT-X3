@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="Hinata Bot Banner" width="100%">
+  <img src="https://i.imgur.com/HLruH7f.jpeg" alt="ARIYAN SIAM" width="100%">
 </p>
 
 <h1 align="center">
@@ -59,7 +59,7 @@ If you are a new user, please watch the step-by-step video guide below to set up
 If you find any issues or need custom features, feel free to reach out!
 
 <div align="left">
-  <a href="https://www.facebook.com/mahmudexe" target="_blank">
+  <a href="https://www.facebook.com/FU3K.Y0U" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
@@ -74,12 +74,12 @@ If you find any issues or need custom features, feel free to reach out!
 
 ## 👤 **Credits**
 **Developer:** **MahMUD**
-**Project Name:** Hinata-Bot-V3  
+**Project Name:** HIMI-BOT  
 
 <p align="center">
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
   <br>
-  <b>ARIYAN MAHMUD</b>
+  <b>ARIYAN</b>
 </p>
 
 ---
